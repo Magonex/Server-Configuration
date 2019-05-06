@@ -1,0 +1,86 @@
++----------------------------------+------------+
+| Language                         | Code       |
++----------------------------------+------------+
+| Afrikaans (South Africa)         | af_ZA      |
+| Albanian (Albania)               | sq_AL      |
+| Arabic (Algeria)                 | ar_DZ      |
+| Arabic (Egypt)                   | ar_EG      |
+| Arabic (Kuwait)                  | ar_KW      |
+| Arabic (Morocco)                 | ar_MA      |
+| Arabic (Saudi Arabia)            | ar_SA      |
+| Azerbaijani (Azerbaijan)         | az_Latn_AZ |
+| Basque (Spain)                   | eu_ES      |
+| Belarusian (Belarus)             | be_BY      |
+| Bengali (Bangladesh)             | bn_BD      |
+| Bosnian (Bosnia and Herzegovina) | bs_Latn_BA |
+| Bulgarian (Bulgaria)             | bg_BG      |
+| Catalan (Spain)                  | ca_ES      |
+| Chinese (China)                  | zh_Hans_CN |
+| Chinese (Hong Kong SAR China)    | zh_Hant_HK |
+| Chinese (Taiwan)                 | zh_Hant_TW |
+| Croatian (Croatia)               | hr_HR      |
+| Czech (Czech Republic)           | cs_CZ      |
+| Danish (Denmark)                 | da_DK      |
+| Dutch (Belgium)                  | nl_BE      |
+| Dutch (Netherlands)              | nl_NL      |
+| English (Australia)              | en_AU      |
+| English (Canada)                 | en_CA      |
+| English (Ireland)                | en_IE      |
+| English (New Zealand)            | en_NZ      |
+| English (United Kingdom)         | en_GB      |
+| English (United States)          | en_US      |
+| Estonian (Estonia)               | et_EE      |
+| Filipino (Philippines)           | fil_PH     |
+| Finnish (Finland)                | fi_FI      |
+| French (Belgium)                 | fr_BE      |
+| French (Canada)                  | fr_CA      |
+| French (France)                  | fr_FR      |
+| Galician (Spain)                 | gl_ES      |
+| Georgian (Georgia)               | ka_GE      |
+| German (Austria)                 | de_AT      |
+| German (Germany)                 | de_DE      |
+| German (Switzerland)             | de_CH      |
+| Greek (Greece)                   | el_GR      |
+| Gujarati (India)                 | gu_IN      |
+| Hebrew (Israel)                  | he_IL      |
+| Hindi (India)                    | hi_IN      |
+| Hungarian (Hungary)              | hu_HU      |
+| Icelandic (Iceland)              | is_IS      |
+| Indonesian (Indonesia)           | id_ID      |
+| Italian (Italy)                  | it_IT      |
+| Italian (Switzerland)            | it_CH      |
+| Japanese (Japan)                 | ja_JP      |
+| Khmer (Cambodia)                 | km_KH      |
+| Korean (South Korea)             | ko_KR      |
+| Lao (Laos)                       | lo_LA      |
+| Latvian (Latvia)                 | lv_LV      |
+| Lithuanian (Lithuania)           | lt_LT      |
+| Macedonian (Macedonia)           | mk_MK      |
+| Norwegian Bokmål (Norway)        | nb_NO      |
+| Norwegian Nynorsk (Norway)       | nn_NO      |
+| Persian (Iran)                   | fa_IR      |
+| Polish (Poland)                  | pl_PL      |
+| Portuguese (Brazil)              | pt_BR      |
+| Portuguese (Portugal)            | pt_PT      |
+| Romanian (Romania)               | ro_RO      |
+| Russian (Russia)                 | ru_RU      |
+| Serbian (Serbia)                 | sr_Cyrl_RS |
+| Slovak (Slovakia)                | sk_SK      |
+| Slovenian (Slovenia)             | sl_SI      |
+| Spanish (Argentina)              | es_AR      |
+| Spanish (Chile)                  | es_CL      |
+| Spanish (Colombia)               | es_CO      |
+| Spanish (Costa Rica)             | es_CR      |
+| Spanish (Mexico)                 | es_MX      |
+| Spanish (Panama)                 | es_PA      |
+| Spanish (Peru)                   | es_PE      |
+| Spanish (Spain)                  | es_ES      |
+| Spanish (Venezuela)              | es_VE      |
+| Swahili (Kenya)                  | sw_KE      |
+| Swedish (Sweden)                 | sv_SE      |
+| Thai (Thailand)                  | th_TH      |
+| Turkish (Turkey)                 | tr_TR      |
+| Ukrainian (Ukraine)              | uk_UA      |
+| Vietnamese (Vietnam)             | vi_VN      |
+| Welsh (United Kingdom)           | cy_GB      |
++----------------------------------+------------+

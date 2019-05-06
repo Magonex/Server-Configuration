@@ -1,0 +1,426 @@
++--------------------------------------------------------------+--------------------------------+
+| Timezone                                                     | Code                           |
++--------------------------------------------------------------+--------------------------------+
+| Afghanistan Time (Asia/Kabul)                                | Asia/Kabul                     |
+| Alaska Standard Time (America/Anchorage)                     | America/Anchorage              |
+| Alaska Standard Time (America/Juneau)                        | America/Juneau                 |
+| Alaska Standard Time (America/Nome)                          | America/Nome                   |
+| Alaska Standard Time (America/Sitka)                         | America/Sitka                  |
+| Alaska Standard Time (America/Yakutat)                       | America/Yakutat                |
+| Amazon Standard Time (America/Boa_Vista)                     | America/Boa_Vista              |
+| Amazon Standard Time (America/Campo_Grande)                  | America/Campo_Grande           |
+| Amazon Standard Time (America/Cuiaba)                        | America/Cuiaba                 |
+| Amazon Standard Time (America/Eirunepe)                      | America/Eirunepe               |
+| Amazon Standard Time (America/Manaus)                        | America/Manaus                 |
+| Amazon Standard Time (America/Porto_Velho)                   | America/Porto_Velho            |
+| Amazon Standard Time (America/Rio_Branco)                    | America/Rio_Branco             |
+| Arabian Standard Time (Asia/Aden)                            | Asia/Aden                      |
+| Arabian Standard Time (Asia/Baghdad)                         | Asia/Baghdad                   |
+| Arabian Standard Time (Asia/Bahrain)                         | Asia/Bahrain                   |
+| Arabian Standard Time (Asia/Kuwait)                          | Asia/Kuwait                    |
+| Arabian Standard Time (Asia/Qatar)                           | Asia/Qatar                     |
+| Arabian Standard Time (Asia/Riyadh)                          | Asia/Riyadh                    |
+| Argentina Standard Time (America/Argentina/Buenos_Aires)     | America/Argentina/Buenos_Aires |
+| Argentina Standard Time (America/Argentina/Catamarca)        | America/Argentina/Catamarca    |
+| Argentina Standard Time (America/Argentina/Cordoba)          | America/Argentina/Cordoba      |
+| Argentina Standard Time (America/Argentina/Jujuy)            | America/Argentina/Jujuy        |
+| Argentina Standard Time (America/Argentina/La_Rioja)         | America/Argentina/La_Rioja     |
+| Argentina Standard Time (America/Argentina/Mendoza)          | America/Argentina/Mendoza      |
+| Argentina Standard Time (America/Argentina/Rio_Gallegos)     | America/Argentina/Rio_Gallegos |
+| Argentina Standard Time (America/Argentina/Salta)            | America/Argentina/Salta        |
+| Argentina Standard Time (America/Argentina/San_Juan)         | America/Argentina/San_Juan     |
+| Argentina Standard Time (America/Argentina/Tucuman)          | America/Argentina/Tucuman      |
+| Argentina Standard Time (America/Argentina/Ushuaia)          | America/Argentina/Ushuaia      |
+| Armenia Standard Time (Asia/Yerevan)                         | Asia/Yerevan                   |
+| Atlantic Standard Time (America/Anguilla)                    | America/Anguilla               |
+| Atlantic Standard Time (America/Antigua)                     | America/Antigua                |
+| Atlantic Standard Time (America/Aruba)                       | America/Aruba                  |
+| Atlantic Standard Time (America/Barbados)                    | America/Barbados               |
+| Atlantic Standard Time (America/Blanc-Sablon)                | America/Blanc-Sablon           |
+| Atlantic Standard Time (America/Curacao)                     | America/Curacao                |
+| Atlantic Standard Time (America/Dominica)                    | America/Dominica               |
+| Atlantic Standard Time (America/Glace_Bay)                   | America/Glace_Bay              |
+| Atlantic Standard Time (America/Goose_Bay)                   | America/Goose_Bay              |
+| Atlantic Standard Time (America/Grenada)                     | America/Grenada                |
+| Atlantic Standard Time (America/Guadeloupe)                  | America/Guadeloupe             |
+| Atlantic Standard Time (America/Halifax)                     | America/Halifax                |
+| Atlantic Standard Time (America/Kralendijk)                  | America/Kralendijk             |
+| Atlantic Standard Time (America/Lower_Princes)               | America/Lower_Princes          |
+| Atlantic Standard Time (America/Marigot)                     | America/Marigot                |
+| Atlantic Standard Time (America/Martinique)                  | America/Martinique             |
+| Atlantic Standard Time (America/Moncton)                     | America/Moncton                |
+| Atlantic Standard Time (America/Montserrat)                  | America/Montserrat             |
+| Atlantic Standard Time (America/Port_of_Spain)               | America/Port_of_Spain          |
+| Atlantic Standard Time (America/Puerto_Rico)                 | America/Puerto_Rico            |
+| Atlantic Standard Time (America/Santo_Domingo)               | America/Santo_Domingo          |
+| Atlantic Standard Time (America/St_Barthelemy)               | America/St_Barthelemy          |
+| Atlantic Standard Time (America/St_Kitts)                    | America/St_Kitts               |
+| Atlantic Standard Time (America/St_Lucia)                    | America/St_Lucia               |
+| Atlantic Standard Time (America/St_Thomas)                   | America/St_Thomas              |
+| Atlantic Standard Time (America/St_Vincent)                  | America/St_Vincent             |
+| Atlantic Standard Time (America/Thule)                       | America/Thule                  |
+| Atlantic Standard Time (America/Tortola)                     | America/Tortola                |
+| Atlantic Standard Time (Atlantic/Bermuda)                    | Atlantic/Bermuda               |
+| Australian Central Standard Time (Australia/Adelaide)        | Australia/Adelaide             |
+| Australian Central Standard Time (Australia/Broken_Hill)     | Australia/Broken_Hill          |
+| Australian Central Standard Time (Australia/Darwin)          | Australia/Darwin               |
+| Australian Central Western Standard Time (Australia/Eucla)   | Australia/Eucla                |
+| Australian Eastern Standard Time (Australia/Brisbane)        | Australia/Brisbane             |
+| Australian Eastern Standard Time (Australia/Currie)          | Australia/Currie               |
+| Australian Eastern Standard Time (Australia/Hobart)          | Australia/Hobart               |
+| Australian Eastern Standard Time (Australia/Lindeman)        | Australia/Lindeman             |
+| Australian Eastern Standard Time (Australia/Melbourne)       | Australia/Melbourne            |
+| Australian Eastern Standard Time (Australia/Sydney)          | Australia/Sydney               |
+| Australian Western Standard Time (Antarctica/Casey)          | Antarctica/Casey               |
+| Australian Western Standard Time (Australia/Perth)           | Australia/Perth                |
+| Azerbaijan Standard Time (Asia/Baku)                         | Asia/Baku                      |
+| Azores Standard Time (Atlantic/Azores)                       | Atlantic/Azores                |
+| Bangladesh Standard Time (Asia/Dhaka)                        | Asia/Dhaka                     |
+| Bhutan Time (Asia/Thimphu)                                   | Asia/Thimphu                   |
+| Bolivia Time (America/La_Paz)                                | America/La_Paz                 |
+| Brasilia Standard Time (America/Araguaina)                   | America/Araguaina              |
+| Brasilia Standard Time (America/Bahia)                       | America/Bahia                  |
+| Brasilia Standard Time (America/Belem)                       | America/Belem                  |
+| Brasilia Standard Time (America/Fortaleza)                   | America/Fortaleza              |
+| Brasilia Standard Time (America/Maceio)                      | America/Maceio                 |
+| Brasilia Standard Time (America/Recife)                      | America/Recife                 |
+| Brasilia Standard Time (America/Santarem)                    | America/Santarem               |
+| Brasilia Standard Time (America/Sao_Paulo)                   | America/Sao_Paulo              |
+| Brunei Darussalam Time (Asia/Brunei)                         | Asia/Brunei                    |
+| Cape Verde Standard Time (Atlantic/Cape_Verde)               | Atlantic/Cape_Verde            |
+| Central Africa Time (Africa/Blantyre)                        | Africa/Blantyre                |
+| Central Africa Time (Africa/Bujumbura)                       | Africa/Bujumbura               |
+| Central Africa Time (Africa/Gaborone)                        | Africa/Gaborone                |
+| Central Africa Time (Africa/Harare)                          | Africa/Harare                  |
+| Central Africa Time (Africa/Kigali)                          | Africa/Kigali                  |
+| Central Africa Time (Africa/Lubumbashi)                      | Africa/Lubumbashi              |
+| Central Africa Time (Africa/Lusaka)                          | Africa/Lusaka                  |
+| Central Africa Time (Africa/Maputo)                          | Africa/Maputo                  |
+| Central European Standard Time (Africa/Algiers)              | Africa/Algiers                 |
+| Central European Standard Time (Africa/Ceuta)                | Africa/Ceuta                   |
+| Central European Standard Time (Africa/Tripoli)              | Africa/Tripoli                 |
+| Central European Standard Time (Africa/Tunis)                | Africa/Tunis                   |
+| Central European Standard Time (Arctic/Longyearbyen)         | Arctic/Longyearbyen            |
+| Central European Standard Time (Europe/Amsterdam)            | Europe/Amsterdam               |
+| Central European Standard Time (Europe/Andorra)              | Europe/Andorra                 |
+| Central European Standard Time (Europe/Belgrade)             | Europe/Belgrade                |
+| Central European Standard Time (Europe/Berlin)               | Europe/Berlin                  |
+| Central European Standard Time (Europe/Bratislava)           | Europe/Bratislava              |
+| Central European Standard Time (Europe/Brussels)             | Europe/Brussels                |
+| Central European Standard Time (Europe/Budapest)             | Europe/Budapest                |
+| Central European Standard Time (Europe/Copenhagen)           | Europe/Copenhagen              |
+| Central European Standard Time (Europe/Gibraltar)            | Europe/Gibraltar               |
+| Central European Standard Time (Europe/Ljubljana)            | Europe/Ljubljana               |
+| Central European Standard Time (Europe/Luxembourg)           | Europe/Luxembourg              |
+| Central European Standard Time (Europe/Madrid)               | Europe/Madrid                  |
+| Central European Standard Time (Europe/Malta)                | Europe/Malta                   |
+| Central European Standard Time (Europe/Monaco)               | Europe/Monaco                  |
+| Central European Standard Time (Europe/Oslo)                 | Europe/Oslo                    |
+| Central European Standard Time (Europe/Paris)                | Europe/Paris                   |
+| Central European Standard Time (Europe/Podgorica)            | Europe/Podgorica               |
+| Central European Standard Time (Europe/Prague)               | Europe/Prague                  |
+| Central European Standard Time (Europe/Rome)                 | Europe/Rome                    |
+| Central European Standard Time (Europe/San_Marino)           | Europe/San_Marino              |
+| Central European Standard Time (Europe/Sarajevo)             | Europe/Sarajevo                |
+| Central European Standard Time (Europe/Skopje)               | Europe/Skopje                  |
+| Central European Standard Time (Europe/Stockholm)            | Europe/Stockholm               |
+| Central European Standard Time (Europe/Tirane)               | Europe/Tirane                  |
+| Central European Standard Time (Europe/Vaduz)                | Europe/Vaduz                   |
+| Central European Standard Time (Europe/Vatican)              | Europe/Vatican                 |
+| Central European Standard Time (Europe/Vienna)               | Europe/Vienna                  |
+| Central European Standard Time (Europe/Warsaw)               | Europe/Warsaw                  |
+| Central European Standard Time (Europe/Zagreb)               | Europe/Zagreb                  |
+| Central European Standard Time (Europe/Zurich)               | Europe/Zurich                  |
+| Central Indonesia Time (Asia/Makassar)                       | Asia/Makassar                  |
+| Central Standard Time (America/Bahia_Banderas)               | America/Bahia_Banderas         |
+| Central Standard Time (America/Belize)                       | America/Belize                 |
+| Central Standard Time (America/Cancun)                       | America/Cancun                 |
+| Central Standard Time (America/Chicago)                      | America/Chicago                |
+| Central Standard Time (America/Costa_Rica)                   | America/Costa_Rica             |
+| Central Standard Time (America/El_Salvador)                  | America/El_Salvador            |
+| Central Standard Time (America/Guatemala)                    | America/Guatemala              |
+| Central Standard Time (America/Indiana/Knox)                 | America/Indiana/Knox           |
+| Central Standard Time (America/Indiana/Tell_City)            | America/Indiana/Tell_City      |
+| Central Standard Time (America/Managua)                      | America/Managua                |
+| Central Standard Time (America/Matamoros)                    | America/Matamoros              |
+| Central Standard Time (America/Menominee)                    | America/Menominee              |
+| Central Standard Time (America/Merida)                       | America/Merida                 |
+| Central Standard Time (America/Mexico_City)                  | America/Mexico_City            |
+| Central Standard Time (America/Monterrey)                    | America/Monterrey              |
+| Central Standard Time (America/North_Dakota/Beulah)          | America/North_Dakota/Beulah    |
+| Central Standard Time (America/North_Dakota/Center)          | America/North_Dakota/Center    |
+| Central Standard Time (America/North_Dakota/New_Salem)       | America/North_Dakota/New_Salem |
+| Central Standard Time (America/Rainy_River)                  | America/Rainy_River            |
+| Central Standard Time (America/Rankin_Inlet)                 | America/Rankin_Inlet           |
+| Central Standard Time (America/Regina)                       | America/Regina                 |
+| Central Standard Time (America/Resolute)                     | America/Resolute               |
+| Central Standard Time (America/Swift_Current)                | America/Swift_Current          |
+| Central Standard Time (America/Tegucigalpa)                  | America/Tegucigalpa            |
+| Central Standard Time (America/Winnipeg)                     | America/Winnipeg               |
+| Chamorro Standard Time (Pacific/Guam)                        | Pacific/Guam                   |
+| Chamorro Standard Time (Pacific/Saipan)                      | Pacific/Saipan                 |
+| Chatham Standard Time (Pacific/Chatham)                      | Pacific/Chatham                |
+| Chile Standard Time (America/Santiago)                       | America/Santiago               |
+| Chile Standard Time (Antarctica/Palmer)                      | Antarctica/Palmer              |
+| China Standard Time (Asia/Macau)                             | Asia/Macau                     |
+| China Standard Time (Asia/Shanghai)                          | Asia/Shanghai                  |
+| China Standard Time (Asia/Urumqi)                            | Asia/Urumqi                    |
+| Choibalsan Standard Time (Asia/Choibalsan)                   | Asia/Choibalsan                |
+| Christmas Island Time (Indian/Christmas)                     | Indian/Christmas               |
+| Chuuk Time (Pacific/Chuuk)                                   | Pacific/Chuuk                  |
+| Cocos Islands Time (Indian/Cocos)                            | Indian/Cocos                   |
+| Colombia Standard Time (America/Bogota)                      | America/Bogota                 |
+| Cook Islands Standard Time (Pacific/Rarotonga)               | Pacific/Rarotonga              |
+| Cuba Standard Time (America/Havana)                          | America/Havana                 |
+| Davis Time (Antarctica/Davis)                                | Antarctica/Davis               |
+| Dumont-d’Urville Time (Antarctica/DumontDUrville)            | Antarctica/DumontDUrville      |
+| East Africa Time (Africa/Addis_Ababa)                        | Africa/Addis_Ababa             |
+| East Africa Time (Africa/Asmara)                             | Africa/Asmara                  |
+| East Africa Time (Africa/Dar_es_Salaam)                      | Africa/Dar_es_Salaam           |
+| East Africa Time (Africa/Djibouti)                           | Africa/Djibouti                |
+| East Africa Time (Africa/Juba)                               | Africa/Juba                    |
+| East Africa Time (Africa/Kampala)                            | Africa/Kampala                 |
+| East Africa Time (Africa/Khartoum)                           | Africa/Khartoum                |
+| East Africa Time (Africa/Mogadishu)                          | Africa/Mogadishu               |
+| East Africa Time (Africa/Nairobi)                            | Africa/Nairobi                 |
+| East Africa Time (Indian/Antananarivo)                       | Indian/Antananarivo            |
+| East Africa Time (Indian/Comoro)                             | Indian/Comoro                  |
+| East Africa Time (Indian/Mayotte)                            | Indian/Mayotte                 |
+| East Greenland Standard Time (America/Scoresbysund)          | America/Scoresbysund           |
+| East Kazakhstan Time (Asia/Almaty)                           | Asia/Almaty                    |
+| East Kazakhstan Time (Asia/Qyzylorda)                        | Asia/Qyzylorda                 |
+| East Timor Time (Asia/Dili)                                  | Asia/Dili                      |
+| Easter Island Standard Time (Pacific/Easter)                 | Pacific/Easter                 |
+| Eastern European Standard Time (Africa/Cairo)                | Africa/Cairo                   |
+| Eastern European Standard Time (Asia/Amman)                  | Asia/Amman                     |
+| Eastern European Standard Time (Asia/Beirut)                 | Asia/Beirut                    |
+| Eastern European Standard Time (Asia/Damascus)               | Asia/Damascus                  |
+| Eastern European Standard Time (Asia/Gaza)                   | Asia/Gaza                      |
+| Eastern European Standard Time (Asia/Hebron)                 | Asia/Hebron                    |
+| Eastern European Standard Time (Asia/Nicosia)                | Asia/Nicosia                   |
+| Eastern European Standard Time (Europe/Athens)               | Europe/Athens                  |
+| Eastern European Standard Time (Europe/Bucharest)            | Europe/Bucharest               |
+| Eastern European Standard Time (Europe/Chisinau)             | Europe/Chisinau                |
+| Eastern European Standard Time (Europe/Helsinki)             | Europe/Helsinki                |
+| Eastern European Standard Time (Europe/Istanbul)             | Europe/Istanbul                |
+| Eastern European Standard Time (Europe/Kiev)                 | Europe/Kiev                    |
+| Eastern European Standard Time (Europe/Mariehamn)            | Europe/Mariehamn               |
+| Eastern European Standard Time (Europe/Riga)                 | Europe/Riga                    |
+| Eastern European Standard Time (Europe/Simferopol)           | Europe/Simferopol              |
+| Eastern European Standard Time (Europe/Sofia)                | Europe/Sofia                   |
+| Eastern European Standard Time (Europe/Tallinn)              | Europe/Tallinn                 |
+| Eastern European Standard Time (Europe/Uzhgorod)             | Europe/Uzhgorod                |
+| Eastern European Standard Time (Europe/Vilnius)              | Europe/Vilnius                 |
+| Eastern European Standard Time (Europe/Zaporozhye)           | Europe/Zaporozhye              |
+| Eastern Indonesia Time (Asia/Jayapura)                       | Asia/Jayapura                  |
+| Eastern Standard Time (America/Atikokan)                     | America/Atikokan               |
+| Eastern Standard Time (America/Cayman)                       | America/Cayman                 |
+| Eastern Standard Time (America/Detroit)                      | America/Detroit                |
+| Eastern Standard Time (America/Grand_Turk)                   | America/Grand_Turk             |
+| Eastern Standard Time (America/Indiana/Indianapolis)         | America/Indiana/Indianapolis   |
+| Eastern Standard Time (America/Indiana/Marengo)              | America/Indiana/Marengo        |
+| Eastern Standard Time (America/Indiana/Petersburg)           | America/Indiana/Petersburg     |
+| Eastern Standard Time (America/Indiana/Vevay)                | America/Indiana/Vevay          |
+| Eastern Standard Time (America/Indiana/Vincennes)            | America/Indiana/Vincennes      |
+| Eastern Standard Time (America/Indiana/Winamac)              | America/Indiana/Winamac        |
+| Eastern Standard Time (America/Iqaluit)                      | America/Iqaluit                |
+| Eastern Standard Time (America/Jamaica)                      | America/Jamaica                |
+| Eastern Standard Time (America/Kentucky/Louisville)          | America/Kentucky/Louisville    |
+| Eastern Standard Time (America/Kentucky/Monticello)          | America/Kentucky/Monticello    |
+| Eastern Standard Time (America/Nassau)                       | America/Nassau                 |
+| Eastern Standard Time (America/New_York)                     | America/New_York               |
+| Eastern Standard Time (America/Nipigon)                      | America/Nipigon                |
+| Eastern Standard Time (America/Panama)                       | America/Panama                 |
+| Eastern Standard Time (America/Pangnirtung)                  | America/Pangnirtung            |
+| Eastern Standard Time (America/Port-au-Prince)               | America/Port-au-Prince         |
+| Eastern Standard Time (America/Thunder_Bay)                  | America/Thunder_Bay            |
+| Eastern Standard Time (America/Toronto)                      | America/Toronto                |
+| Ecuador Time (America/Guayaquil)                             | America/Guayaquil              |
+| Falkland Islands Standard Time (Atlantic/Stanley)            | Atlantic/Stanley               |
+| Fernando de Noronha Standard Time (America/Noronha)          | America/Noronha                |
+| Fiji Standard Time (Pacific/Fiji)                            | Pacific/Fiji                   |
+| French Guiana Time (America/Cayenne)                         | America/Cayenne                |
+| French Southern and Antarctic Time (Indian/Kerguelen)        | Indian/Kerguelen               |
+| GMT (America/Fort_Nelson)                                    | America/Fort_Nelson            |
+| GMT (Antarctica/Troll)                                       | Antarctica/Troll               |
+| GMT (Asia/Barnaul)                                           | Asia/Barnaul                   |
+| GMT (Asia/Chita)                                             | Asia/Chita                     |
+| GMT (Asia/Khandyga)                                          | Asia/Khandyga                  |
+| GMT (Asia/Srednekolymsk)                                     | Asia/Srednekolymsk             |
+| GMT (Asia/Tomsk)                                             | Asia/Tomsk                     |
+| GMT (Asia/Ust-Nera)                                          | Asia/Ust-Nera                  |
+| GMT (Europe/Astrakhan)                                       | Europe/Astrakhan               |
+| GMT (Europe/Busingen)                                        | Europe/Busingen                |
+| GMT (Europe/Kirov)                                           | Europe/Kirov                   |
+| GMT (Europe/Ulyanovsk)                                       | Europe/Ulyanovsk               |
+| GMT (Pacific/Bougainville)                                   | Pacific/Bougainville           |
+| GMT (UTC)                                                    | UTC                            |
+| GMT+03:00 (Europe/Kaliningrad)                               | Europe/Kaliningrad             |
+| GMT+03:00 (Europe/Minsk)                                     | Europe/Minsk                   |
+| Galapagos Time (Pacific/Galapagos)                           | Pacific/Galapagos              |
+| Gambier Time (Pacific/Gambier)                               | Pacific/Gambier                |
+| Georgia Standard Time (Asia/Tbilisi)                         | Asia/Tbilisi                   |
+| Gilbert Islands Time (Pacific/Tarawa)                        | Pacific/Tarawa                 |
+| Greenwich Mean Time (Africa/Abidjan)                         | Africa/Abidjan                 |
+| Greenwich Mean Time (Africa/Accra)                           | Africa/Accra                   |
+| Greenwich Mean Time (Africa/Bamako)                          | Africa/Bamako                  |
+| Greenwich Mean Time (Africa/Banjul)                          | Africa/Banjul                  |
+| Greenwich Mean Time (Africa/Bissau)                          | Africa/Bissau                  |
+| Greenwich Mean Time (Africa/Conakry)                         | Africa/Conakry                 |
+| Greenwich Mean Time (Africa/Dakar)                           | Africa/Dakar                   |
+| Greenwich Mean Time (Africa/Freetown)                        | Africa/Freetown                |
+| Greenwich Mean Time (Africa/Lome)                            | Africa/Lome                    |
+| Greenwich Mean Time (Africa/Monrovia)                        | Africa/Monrovia                |
+| Greenwich Mean Time (Africa/Nouakchott)                      | Africa/Nouakchott              |
+| Greenwich Mean Time (Africa/Ouagadougou)                     | Africa/Ouagadougou             |
+| Greenwich Mean Time (Africa/Sao_Tome)                        | Africa/Sao_Tome                |
+| Greenwich Mean Time (America/Danmarkshavn)                   | America/Danmarkshavn           |
+| Greenwich Mean Time (Atlantic/Reykjavik)                     | Atlantic/Reykjavik             |
+| Greenwich Mean Time (Atlantic/St_Helena)                     | Atlantic/St_Helena             |
+| Greenwich Mean Time (Europe/Dublin)                          | Europe/Dublin                  |
+| Greenwich Mean Time (Europe/Guernsey)                        | Europe/Guernsey                |
+| Greenwich Mean Time (Europe/Isle_of_Man)                     | Europe/Isle_of_Man             |
+| Greenwich Mean Time (Europe/Jersey)                          | Europe/Jersey                  |
+| Greenwich Mean Time (Europe/London)                          | Europe/London                  |
+| Gulf Standard Time (Asia/Dubai)                              | Asia/Dubai                     |
+| Gulf Standard Time (Asia/Muscat)                             | Asia/Muscat                    |
+| Guyana Time (America/Guyana)                                 | America/Guyana                 |
+| Hawaii-Aleutian Standard Time (America/Adak)                 | America/Adak                   |
+| Hawaii-Aleutian Standard Time (Pacific/Honolulu)             | Pacific/Honolulu               |
+| Hawaii-Aleutian Standard Time (Pacific/Johnston)             | Pacific/Johnston               |
+| Hong Kong Standard Time (Asia/Hong_Kong)                     | Asia/Hong_Kong                 |
+| Hovd Standard Time (Asia/Hovd)                               | Asia/Hovd                      |
+| India Standard Time (Asia/Colombo)                           | Asia/Colombo                   |
+| India Standard Time (Asia/Kolkata)                           | Asia/Kolkata                   |
+| Indian Ocean Time (Indian/Chagos)                            | Indian/Chagos                  |
+| Indochina Time (Asia/Bangkok)                                | Asia/Bangkok                   |
+| Indochina Time (Asia/Ho_Chi_Minh)                            | Asia/Ho_Chi_Minh               |
+| Indochina Time (Asia/Phnom_Penh)                             | Asia/Phnom_Penh                |
+| Indochina Time (Asia/Vientiane)                              | Asia/Vientiane                 |
+| Iran Standard Time (Asia/Tehran)                             | Asia/Tehran                    |
+| Irkutsk Standard Time (Asia/Irkutsk)                         | Asia/Irkutsk                   |
+| Israel Standard Time (Asia/Jerusalem)                        | Asia/Jerusalem                 |
+| Japan Standard Time (Asia/Tokyo)                             | Asia/Tokyo                     |
+| Korean Standard Time (Asia/Pyongyang)                        | Asia/Pyongyang                 |
+| Korean Standard Time (Asia/Seoul)                            | Asia/Seoul                     |
+| Kosrae Time (Pacific/Kosrae)                                 | Pacific/Kosrae                 |
+| Krasnoyarsk Standard Time (Asia/Krasnoyarsk)                 | Asia/Krasnoyarsk               |
+| Kyrgystan Time (Asia/Bishkek)                                | Asia/Bishkek                   |
+| Line Islands Time (Pacific/Kiritimati)                       | Pacific/Kiritimati             |
+| Lord Howe Standard Time (Australia/Lord_Howe)                | Australia/Lord_Howe            |
+| Macquarie Island Time (Antarctica/Macquarie)                 | Antarctica/Macquarie           |
+| Magadan Standard Time (Asia/Anadyr)                          | Asia/Anadyr                    |
+| Magadan Standard Time (Asia/Kamchatka)                       | Asia/Kamchatka                 |
+| Magadan Standard Time (Asia/Magadan)                         | Asia/Magadan                   |
+| Malaysia Time (Asia/Kuala_Lumpur)                            | Asia/Kuala_Lumpur              |
+| Malaysia Time (Asia/Kuching)                                 | Asia/Kuching                   |
+| Maldives Time (Indian/Maldives)                              | Indian/Maldives                |
+| Marquesas Time (Pacific/Marquesas)                           | Pacific/Marquesas              |
+| Marshall Islands Time (Pacific/Kwajalein)                    | Pacific/Kwajalein              |
+| Marshall Islands Time (Pacific/Majuro)                       | Pacific/Majuro                 |
+| Mauritius Standard Time (Indian/Mauritius)                   | Indian/Mauritius               |
+| Mawson Time (Antarctica/Mawson)                              | Antarctica/Mawson              |
+| Moscow Standard Time (Europe/Moscow)                         | Europe/Moscow                  |
+| Moscow Standard Time (Europe/Samara)                         | Europe/Samara                  |
+| Mountain Standard Time (America/Boise)                       | America/Boise                  |
+| Mountain Standard Time (America/Cambridge_Bay)               | America/Cambridge_Bay          |
+| Mountain Standard Time (America/Chihuahua)                   | America/Chihuahua              |
+| Mountain Standard Time (America/Creston)                     | America/Creston                |
+| Mountain Standard Time (America/Dawson_Creek)                | America/Dawson_Creek           |
+| Mountain Standard Time (America/Denver)                      | America/Denver                 |
+| Mountain Standard Time (America/Edmonton)                    | America/Edmonton               |
+| Mountain Standard Time (America/Hermosillo)                  | America/Hermosillo             |
+| Mountain Standard Time (America/Inuvik)                      | America/Inuvik                 |
+| Mountain Standard Time (America/Mazatlan)                    | America/Mazatlan               |
+| Mountain Standard Time (America/Ojinaga)                     | America/Ojinaga                |
+| Mountain Standard Time (America/Phoenix)                     | America/Phoenix                |
+| Mountain Standard Time (America/Yellowknife)                 | America/Yellowknife            |
+| Myanmar Time (Asia/Rangoon)                                  | Asia/Rangoon                   |
+| Nauru Time (Pacific/Nauru)                                   | Pacific/Nauru                  |
+| Nepal Time (Asia/Kathmandu)                                  | Asia/Kathmandu                 |
+| New Caledonia Standard Time (Pacific/Noumea)                 | Pacific/Noumea                 |
+| New Zealand Standard Time (Antarctica/McMurdo)               | Antarctica/McMurdo             |
+| New Zealand Standard Time (Pacific/Auckland)                 | Pacific/Auckland               |
+| Newfoundland Standard Time (America/St_Johns)                | America/St_Johns               |
+| Niue Time (Pacific/Niue)                                     | Pacific/Niue                   |
+| Norfolk Island Time (Pacific/Norfolk)                        | Pacific/Norfolk                |
+| Novosibirsk Standard Time (Asia/Novokuznetsk)                | Asia/Novokuznetsk              |
+| Novosibirsk Standard Time (Asia/Novosibirsk)                 | Asia/Novosibirsk               |
+| Omsk Standard Time (Asia/Omsk)                               | Asia/Omsk                      |
+| Pacific Standard Time (America/Dawson)                       | America/Dawson                 |
+| Pacific Standard Time (America/Los_Angeles)                  | America/Los_Angeles            |
+| Pacific Standard Time (America/Metlakatla)                   | America/Metlakatla             |
+| Pacific Standard Time (America/Tijuana)                      | America/Tijuana                |
+| Pacific Standard Time (America/Vancouver)                    | America/Vancouver              |
+| Pacific Standard Time (America/Whitehorse)                   | America/Whitehorse             |
+| Pakistan Standard Time (Asia/Karachi)                        | Asia/Karachi                   |
+| Palau Time (Pacific/Palau)                                   | Pacific/Palau                  |
+| Papua New Guinea Time (Pacific/Port_Moresby)                 | Pacific/Port_Moresby           |
+| Paraguay Standard Time (America/Asuncion)                    | America/Asuncion               |
+| Peru Standard Time (America/Lima)                            | America/Lima                   |
+| Philippine Standard Time (Asia/Manila)                       | Asia/Manila                    |
+| Phoenix Islands Time (Pacific/Enderbury)                     | Pacific/Enderbury              |
+| Pitcairn Time (Pacific/Pitcairn)                             | Pacific/Pitcairn               |
+| Ponape Time (Pacific/Pohnpei)                                | Pacific/Pohnpei                |
+| Reunion Time (Indian/Reunion)                                | Indian/Reunion                 |
+| Rothera Time (Antarctica/Rothera)                            | Antarctica/Rothera             |
+| Saint Pierre and Miquelon Standard Time (America/Miquelon)   | America/Miquelon               |
+| Sakhalin Standard Time (Asia/Sakhalin)                       | Asia/Sakhalin                  |
+| Samoa Standard Time (Pacific/Apia)                           | Pacific/Apia                   |
+| Samoa Standard Time (Pacific/Midway)                         | Pacific/Midway                 |
+| Samoa Standard Time (Pacific/Pago_Pago)                      | Pacific/Pago_Pago              |
+| Seychelles Time (Indian/Mahe)                                | Indian/Mahe                    |
+| Singapore Standard Time (Asia/Singapore)                     | Asia/Singapore                 |
+| Solomon Islands Time (Pacific/Guadalcanal)                   | Pacific/Guadalcanal            |
+| South Africa Standard Time (Africa/Johannesburg)             | Africa/Johannesburg            |
+| South Africa Standard Time (Africa/Maseru)                   | Africa/Maseru                  |
+| South Africa Standard Time (Africa/Mbabane)                  | Africa/Mbabane                 |
+| South Georgia Time (Atlantic/South_Georgia)                  | Atlantic/South_Georgia         |
+| Suriname Time (America/Paramaribo)                           | America/Paramaribo             |
+| Syowa Time (Antarctica/Syowa)                                | Antarctica/Syowa               |
+| Tahiti Time (Pacific/Tahiti)                                 | Pacific/Tahiti                 |
+| Taipei Standard Time (Asia/Taipei)                           | Asia/Taipei                    |
+| Tajikistan Time (Asia/Dushanbe)                              | Asia/Dushanbe                  |
+| Tokelau Time (Pacific/Fakaofo)                               | Pacific/Fakaofo                |
+| Tonga Standard Time (Pacific/Tongatapu)                      | Pacific/Tongatapu              |
+| Turkmenistan Standard Time (Asia/Ashgabat)                   | Asia/Ashgabat                  |
+| Tuvalu Time (Pacific/Funafuti)                               | Pacific/Funafuti               |
+| Ulan Bator Standard Time (Asia/Ulaanbaatar)                  | Asia/Ulaanbaatar               |
+| Uruguay Standard Time (America/Montevideo)                   | America/Montevideo             |
+| Uzbekistan Standard Time (Asia/Samarkand)                    | Asia/Samarkand                 |
+| Uzbekistan Standard Time (Asia/Tashkent)                     | Asia/Tashkent                  |
+| Vanuatu Standard Time (Pacific/Efate)                        | Pacific/Efate                  |
+| Venezuela Time (America/Caracas)                             | America/Caracas                |
+| Vladivostok Standard Time (Asia/Vladivostok)                 | Asia/Vladivostok               |
+| Volgograd Standard Time (Europe/Volgograd)                   | Europe/Volgograd               |
+| Vostok Time (Antarctica/Vostok)                              | Antarctica/Vostok              |
+| Wake Island Time (Pacific/Wake)                              | Pacific/Wake                   |
+| Wallis and Futuna Time (Pacific/Wallis)                      | Pacific/Wallis                 |
+| West Africa Standard Time (Africa/Bangui)                    | Africa/Bangui                  |
+| West Africa Standard Time (Africa/Brazzaville)               | Africa/Brazzaville             |
+| West Africa Standard Time (Africa/Douala)                    | Africa/Douala                  |
+| West Africa Standard Time (Africa/Kinshasa)                  | Africa/Kinshasa                |
+| West Africa Standard Time (Africa/Lagos)                     | Africa/Lagos                   |
+| West Africa Standard Time (Africa/Libreville)                | Africa/Libreville              |
+| West Africa Standard Time (Africa/Luanda)                    | Africa/Luanda                  |
+| West Africa Standard Time (Africa/Malabo)                    | Africa/Malabo                  |
+| West Africa Standard Time (Africa/Ndjamena)                  | Africa/Ndjamena                |
+| West Africa Standard Time (Africa/Niamey)                    | Africa/Niamey                  |
+| West Africa Standard Time (Africa/Porto-Novo)                | Africa/Porto-Novo              |
+| West Africa Standard Time (Africa/Windhoek)                  | Africa/Windhoek                |
+| West Greenland Standard Time (America/Godthab)               | America/Godthab                |
+| West Kazakhstan Time (Asia/Aqtau)                            | Asia/Aqtau                     |
+| West Kazakhstan Time (Asia/Aqtobe)                           | Asia/Aqtobe                    |
+| West Kazakhstan Time (Asia/Oral)                             | Asia/Oral                      |
+| Western Argentina Standard Time (America/Argentina/San_Luis) | America/Argentina/San_Luis     |
+| Western European Standard Time (Africa/Casablanca)           | Africa/Casablanca              |
+| Western European Standard Time (Africa/El_Aaiun)             | Africa/El_Aaiun                |
+| Western European Standard Time (Atlantic/Canary)             | Atlantic/Canary                |
+| Western European Standard Time (Atlantic/Faroe)              | Atlantic/Faroe                 |
+| Western European Standard Time (Atlantic/Madeira)            | Atlantic/Madeira               |
+| Western European Standard Time (Europe/Lisbon)               | Europe/Lisbon                  |
+| Western Indonesia Time (Asia/Jakarta)                        | Asia/Jakarta                   |
+| Western Indonesia Time (Asia/Pontianak)                      | Asia/Pontianak                 |
+| Yakutsk Standard Time (Asia/Yakutsk)                         | Asia/Yakutsk                   |
+| Yekaterinburg Standard Time (Asia/Yekaterinburg)             | Asia/Yekaterinburg             |
++--------------------------------------------------------------+--------------------------------+
