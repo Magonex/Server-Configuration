@@ -190,8 +190,8 @@ installed_packages="$(rpm -qa --qf '%{name} ' 'mysqld?|Percona*|maria*|php-?|ngi
 fi
 
 # network is up?
-host1=209.85.202.91
-host2=151.101.193.69
+host1=138.68.109.4
+host2=138.68.109.4
 RESULT=$(((ping -w3 -c2 ${host1} || ping -w3 -c2 ${host2}) > /dev/null 2>&1) && echo "up" || (echo "down" && exit 1))
 if [[ ${RESULT} == up ]]; then
   GREENTXT "PASS: NETWORK IS UP. GREAT, LETS START!"
@@ -202,32 +202,32 @@ if [[ ${RESULT} == up ]]; then
   echo
   echo
   exit 1
-fi
-        MD5_NEW=$(curl -sL ${MAGONEX_BASE} > MAGONEX_NEW && md5sum MAGONEX_NEW | awk '{print $1}')
-        MD5_OLD=$(md5sum ${SELF} | awk '{print $1}')
-            if [[ "${MD5_NEW}" == "${MD5_OLD}" ]]; then
-            GREENTXT "PASS: INTEGRITY CHECK FOR '${SELF}' OK"
-            rm MAGONEX_NEW
-            elif [[ "${MD5_NEW}" != "${MD5_OLD}" ]]; then
-            echo
-            YELLOWTXT "INTEGRITY CHECK FOR '${SELF}'"
-            YELLOWTXT "DETECTED DIFFERENT MD5 CHECKSUM"
-            YELLOWTXT "REMOTE REPOSITORY FILE HAS SOME CHANGES"
-            REDTXT "IF YOU HAVE LOCAL CHANGES - SKIP UPDATES"
-            echo
-                echo -n "---> Would you like to update the file now?  [y/n][y]:"
-		read update_agree
-		if [ "${update_agree}" == "y" ];then
-		mv MAGONEX_NEW ${SELF}
-		echo
-                GREENTXT "THE FILE WAS UPGRADED, PLEASE RUN IT AGAIN"
-		echo
-                exit 1
-            else
-        echo
-        YELLOWTXT "NEW FILE SAVED TO MAGONEX_NEW"
-        echo
-  fi
+#fi
+#        MD5_NEW=$(curl -sL ${MAGONEX_BASE} > MAGONEX_NEW && md5sum MAGONEX_NEW | awk '{print $1}')
+#        MD5_OLD=$(md5sum ${SELF} | awk '{print $1}')
+#            if [[ "${MD5_NEW}" == "${MD5_OLD}" ]]; then
+#            GREENTXT "PASS: INTEGRITY CHECK FOR '${SELF}' OK"
+#            rm MAGONEX_NEW
+#            elif [[ "${MD5_NEW}" != "${MD5_OLD}" ]]; then
+#            echo
+#            YELLOWTXT "INTEGRITY CHECK FOR '${SELF}'"
+#            YELLOWTXT "DETECTED DIFFERENT MD5 CHECKSUM"
+#            YELLOWTXT "REMOTE REPOSITORY FILE HAS SOME CHANGES"
+#            REDTXT "IF YOU HAVE LOCAL CHANGES - SKIP UPDATES"
+#            echo
+#                echo -n "---> Would you like to update the file now?  [y/n][y]:"
+#		read update_agree
+#		if [ "${update_agree}" == "y" ];then
+#		mv MAGONEX_NEW ${SELF}
+#		echo
+#                GREENTXT "THE FILE WAS UPGRADED, PLEASE RUN IT AGAIN"
+#		echo
+#                exit 1
+#            else
+#        echo
+#        YELLOWTXT "NEW FILE SAVED TO MAGONEX_NEW"
+#        echo
+#  fi
 fi
 
 # do we have CentOS 7?
